@@ -18,8 +18,8 @@ email: lazylight.tech@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Lazy Light Technical blogs.
   You can expect articles about development ( mostly web development ) and linux administration.
-baseurl: "/lazylight" # the subpath of your site, e.g. /blog
-url: "http://localhost" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://lazylight.github.io/" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 github_username:  lazylight
 
